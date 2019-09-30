@@ -801,4 +801,8 @@ Note that the Account Name option only works for accounts whose game libraries h
     <sys:String x:Key="LOCGameListSearchResults">Search results for:</sys:String>
     <sys:String x:Key="LOCItemAlreadyExists">An item with the same name already exists.</sys:String>
 
+    <sys:String x:Key="LOCRemoveGamesWindowTitle">Remove Uninstalled Games</sys:String>
+    <sys:String x:Key="LOCRemoveGamesExecuteButton">Remove Games</sys:String>
+    
+
 </ResourceDictionary>
